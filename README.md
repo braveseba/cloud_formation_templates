@@ -1,1 +1,1 @@
-# cloud_formation_templates
+# cloudformation_practices
